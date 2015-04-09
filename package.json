@@ -1,0 +1,13 @@
+{
+  "name": "geolite2-mongo",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.12.2",
+    "mongoose":"~4.0.1",
+    "yauzl":"~2.2.1",
+    "csvtojson":"~0.3.21"
+  },
+  "devDependencies": {
+       "mocha": "~2.2.4"
+   }
+}

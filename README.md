@@ -1,4 +1,4 @@
-GeoIP Service using NodeJS, MongoDB and MaxMind GeoLite2 data (under development)
+geolite2-mongo (under development)
 ====================
 1. Extract /dump/04-13-2015-geolite-2.rar
 2. Restore the data into MongoDB database
